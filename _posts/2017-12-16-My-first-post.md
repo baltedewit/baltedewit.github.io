@@ -3,9 +3,9 @@ layout: post
 title: "My first post on my website"
 author: "Balte de Wit"
 categories: blogs
-tags: []
+tags: [blogs]
 image:
-  feature: city-1.jpg
+  feature: my-first-post-banner-woods-bike.jpg
 ---
 
 So, this is it then the first post.
