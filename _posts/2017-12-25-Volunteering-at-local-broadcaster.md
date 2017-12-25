@@ -40,10 +40,6 @@ The video below was in particular very fun to make, since all the people who wer
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i0NDGY_fNDQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-I only did some camera work on this one:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-M_HZ9rFiD0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
 Below is the first live broadcast we did. The image quality is horrible, and the audio is just radio commentary. But hey, it *was* a first step.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ODVOpiWHgrs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
